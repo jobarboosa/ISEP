@@ -11,7 +11,7 @@ public class ExG {
                 if ( numero % divisores == 0) {
                     System.out.println(divisores);
                     contador++;
-                }ggg
+                }
             }
             System.out.printf("(%d)%n", contador);
         }
